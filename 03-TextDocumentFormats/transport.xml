@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transport>
+    <vehicle type="car" brand="Toyota">
+        <fuel>Petrol</fuel>
+        <color>Silver</color>
+        <year>2018</year>
+        <owner>Mikola Jankowski</owner>
+    </vehicle>
+    <vehicle type="bike" brand="Giant">
+        <color>Black</color>
+        <gears>18</gears>
+        <year>2021</year>
+        <owner>Mikolaj Jankowski</owner>
+    </vehicle>
+    <vehicle type="bus" brand="Solaris">
+        <fuel>Diesel</fuel>
+        <capacity>60</capacity>
+        <route>City Center</route>
+        <year>2019</year>
+    </vehicle>
+</transport>

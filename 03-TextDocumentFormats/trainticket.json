@@ -1,0 +1,11 @@
+{
+    "train": "IC 8124",
+    "from": "Warszawa Centralna",
+    "to": "Kraków Główny",
+    "date": "2025-03-15",
+    "departure": "10:45",
+    "arrival": "13:05",
+    "pricePLN": 129.90,
+    "seat": "12A",
+    "firstClass": false
+}

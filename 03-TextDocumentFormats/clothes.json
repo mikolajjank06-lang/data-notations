@@ -53,5 +53,30 @@
             "Outerwear",
             "Accessories"
         ]
+    },
+    {
+        "name": "Puma",
+        "founded": 1948,
+        "headquarters": "Herzogenaurach, Germany",
+        "employees": 20000,
+        "products": [
+            "Sportswear",
+            "Footwear",
+            "Accessories"
+        ]
+    },
+    {
+        "name": "Reserved",
+        "founded": 1998,
+        "headquarters": "Gdańsk, Poland",
+        "employees": 24000,
+        "products": [
+            "Fashion Apparel",
+            "Footwear",
+            "Accessories"
+        ]
     }
 ]
+
+
+
